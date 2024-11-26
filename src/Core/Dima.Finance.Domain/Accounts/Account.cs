@@ -1,6 +1,4 @@
-﻿
-// Core - Domain Layer
-using Dima.Finance.Domain.Common;
+﻿using Dima.Finance.Domain.Common;
 using Dima.Finance.Domain.Customers;
 using System.Transactions;
 

@@ -1,6 +1,4 @@
-﻿
-// Core - Domain Layer
-using Dima.Finance.Domain.Accounts;
+﻿using Dima.Finance.Domain.Accounts;
 using Dima.Finance.Domain.Common;
 using Dima.Finance.Domain.Loans;
 
